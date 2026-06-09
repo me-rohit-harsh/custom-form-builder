@@ -4,7 +4,7 @@ A modern, drag-and-drop form builder built with Laravel, TailwindCSS, Alpine.js,
 
 ## Setup Steps
 
-This application is ready to run out of the box with zero complex configuration. 
+This application is ready to run out of the box with zero complex configuration. (Added .env file for easy project setup)
 
 1. **Clone the repository:**
    ```bash
