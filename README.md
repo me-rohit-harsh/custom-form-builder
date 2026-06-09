@@ -17,17 +17,7 @@ This application is ready to run out of the box with zero complex configuration.
    composer install
    ```
 
-<<<<<<< HEAD
-3. **Install NPM dependencies and build assets:**
-   ```bash
-   npm install
-   npm run dev
-   ```
-
-4. **Serve the application:**
-=======
 3. **Serve the application:**
->>>>>>> def8580 (fix gitignore and updated readme)
    ```bash
    php artisan serve
    ```
